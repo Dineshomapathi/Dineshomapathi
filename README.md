@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dineshomapathi
+- 👋 Hi, I’m Dineshomapathi
 - 👀 I’m interested in Java, Azure Cloud and Android.
 - 🌱 I’m currently learning Angular and iOS.
 - 💞️ I’m looking to collaborate on any interesting project.
